@@ -1,2 +1,2 @@
-# CC312A-PC5
+# English Draughts
 Proyecto para la PC5 del curso Administración de Redes (CC312A)
